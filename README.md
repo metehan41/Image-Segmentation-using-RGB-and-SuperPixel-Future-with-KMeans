@@ -17,7 +17,7 @@ Drive Link: https://drive.google.com/drive/folders/19JcIOSNU3NeVUF4ZTwtXjkWr2Th6
 
 Metehan Sarikaya 21993049
 
-30.12.2023
+30.12.2023  
 Problem:
 We will segment images based on 5 different features which are; RGB color at pixel-level, RGB color
 and location feature at pixel-level, mean RGB feature at superpixel level, RGB color histogram at
