@@ -1,7 +1,7 @@
 # IMAGE_ASS3
 
-                            Hacettepe University
-             Computer Engineering - Artificial Intelligence Engineering
+                                      Hacettepe University
+                      Computer Engineering - Artificial Intelligence Engineering
 
 
                          AIN 432 – Fundamentals of Image Processing Lab.
